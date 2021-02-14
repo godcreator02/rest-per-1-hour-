@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "bsp_rtc.h": "c",
+        "bsp_beep.h": "c",
+        "bsp_led.h": "c",
+        "atomic": "c"
+    }
+}
